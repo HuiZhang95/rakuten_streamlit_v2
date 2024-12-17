@@ -1,0 +1,16 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pillow
+nltk
+clean-text
+mediapipe
+Ftfy
+beautifulsoup4
+lingua-language-detector
+langdetect
+deep_translator
+Opencv-python
